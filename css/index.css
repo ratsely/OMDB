@@ -1,0 +1,27 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background: url(../img/filmFondo.jpg);
+    color: yellow;
+    word-spacing: .2em;
+    letter-spacing: .1em;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    max-width:100%;
+    width: 300px;
+    margin: auto;
+}
+div{
+    margin: auto;
+    margin-top: 2em;
+}
+
+#datos{
+    justify-content: center;
+}
